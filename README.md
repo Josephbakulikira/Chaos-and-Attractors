@@ -10,6 +10,14 @@ Exploration of Chaos equation and lorenz attractors
 > Run the main.py file . python ./main.py
 
 
+### visualizations
+- Chaos Equation
+- Lorenz Attractor
+- Thomas Attractor
+- Aizawa Attractor
+
+> Might add (dadras, sprott, lorenz83, chen, rossler, halvorsen, Rabinovich Fabrikant, three-scroll, four wing) attractors later
+
 
 ![Screenshot (484)](https://user-images.githubusercontent.com/48150537/208489635-0f957470-6f1c-4ebd-9689-f8a4c6121d2e.png)
 ![Screenshot (474)](https://user-images.githubusercontent.com/48150537/208489644-e2b25609-675e-4ad7-9b31-1d41fba9d0f5.png)
